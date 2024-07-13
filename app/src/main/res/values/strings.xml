@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Grid In RecyclerView</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="website">Website</string>
+    <string name="message">Message</string>
+    <string name="contacts">Contacts</string>
+    <string name="calender">Calender</string>
+    <string name="todo">TODO</string>
+    <string name="custom">Custom</string>
+    <string name="text">Text</string>
+</resources>
